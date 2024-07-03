@@ -1,0 +1,4 @@
+hello codsoft
+Also these tasks are stored in seperate files so that we can retrive it later
+this tasks are stored in txt files
+thankyou
